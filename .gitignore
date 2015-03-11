@@ -1,0 +1,24 @@
+#################
+#Visual Fox Pro
+#################
+
+
+## visual source safe files and compiled files [fxp, mpx, app, qpx,spx,prx]
+*.scc
+*.[Ff][Xx][Pp]
+*.[Mm][Pp][Xx]
+*.[Aa][Pp][Pp]
+*.[Qq][Pp][Xx]
+*.[Ss][Pp][Xx]
+*.[Pp][Rr][Xx]
+*.ERR
+
+## error,session, request logs for wConnect
+
+RequestLog.DBF
+RequestLog.FPT
+onerror.DBF
+onerror.FPT
+wwSession.DBF
+wwSession.FPT
+wwSession.CDX
